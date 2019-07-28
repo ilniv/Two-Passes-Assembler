@@ -1,0 +1,12 @@
+user@VirtualBox:/media/Documents/Assembler$ ./assembler Examples/err1 Examples/err2 Examples/err3
+error 0009: Invalid .string decleration argument at Examples/err1.as line 1
+error 0017: Invalid instruction argument addressing type at Examples/err1.as line 3
+error 0002: Label name cannot be a keyword at Examples/err1.as line 4
+error 0001: Invalid label name at Examples/err1.as line 6
+error 0018: Too many args for given instruction at Examples/err2.as line 5
+error 0014: Unknown instruction or decleration at Examples/err3.as line 1
+error 0016: Invalid instruction argument at Examples/err3.as line 3
+error 0016: Invalid instruction argument at Examples/err3.as line 4
+error 0019: Invalid .struct decleration at Examples/err3.as line 6
+DONE. Press any key to continue
+
